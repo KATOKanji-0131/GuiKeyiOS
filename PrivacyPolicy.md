@@ -9,6 +9,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at GuiKey unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
+
 This application does not collect data.
 
 **Security**
